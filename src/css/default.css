@@ -54,7 +54,7 @@ body, html {
   }
 
   .background {
-    background-image: url('/src/img/xeee-camarao.gif'); /* Substitua 'caminho_para_camarao.jpeg' pelo caminho correto */
+    background-image: url('../img/xeee-camarao.gif'); /* Substitua 'caminho_para_camarao.jpeg' pelo caminho correto */
     background-size: cover;
     background-position: center;
     height: 100%;
