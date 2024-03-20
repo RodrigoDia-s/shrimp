@@ -6,7 +6,7 @@ body, html {
   }
   
   .background {
-    background-color: #7fffd4; /* Verde água */
+    background-color: #7fffd4; 
     height: 100%;
     display: flex;
     justify-content: center;
@@ -29,7 +29,7 @@ body, html {
   }
   
   .texto {
-    font-size: 24px; /* Aumentando o tamanho da fonte */
+    font-size: 24px;
     color: #333;
   }
   
@@ -37,7 +37,7 @@ body, html {
     margin: 10px;
     padding: 10px 20px;
     font-size: 18px;
-    background-color: #000; /* Preto */
+    background-color: #000; 
     color: white;
     border: none;
     cursor: pointer;
@@ -46,7 +46,7 @@ body, html {
   }
   
   button:hover {
-    background-color: #333; /* Cinza escuro ao passar o mouse */
+    background-color: #333;
   }
   
   button:focus {
@@ -54,8 +54,8 @@ body, html {
   }
 
   .background {
-    background-image: url('../img/xeee-camarao.gif'); /* Substitua 'caminho_para_camarao.jpeg' pelo caminho correto */
-    background-size: cover;
+    background-image: url('../img/xeee-camarao.gif'); 
+     background-size: cover;
     background-position: center;
     height: 100%;
     display: flex;
@@ -68,7 +68,7 @@ body, html {
   }
   
   .texto-grande {
-    font-size: 48px; /* Tamanho do texto gigante */
-    color: white; /* Cor do texto */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra do texto para melhorar a legibilidade */
+    font-size: 48px;
+    color: white; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
   }
